@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
   <p>Please see my CV below ⤵️. Or download directly ➡️</p>
-  <a href="https://jaylenwang7.github.io/files/JaylenWang_CV.pdf" download class="pdf-button" style="
+  <a href="https://eddyabban2.github.io/files/EddyAbbanCV.pdf" download class="pdf-button" style="
     display: inline-flex;
     align-items: center;
     padding: 10px 20px;
@@ -30,6 +30,6 @@ redirect_from:
   </a>
 </div>
 
-<iframe src="https://jaylenwang7.github.io/files/JaylenWang_CV.pdf" width="100%" height="800px" style="border: none;">
-  <p>Your browser does not support iframes. Please <a href="https://jaylenwang7.github.io/files/JaylenWang_CV.pdf">click here to download the PDF</a>.</p>
+<iframe src="https://eddyabban2.github.io/files/EddyAbbanCV.pdf" width="100%" height="800px" style="border: none;">
+  <p>Your browser does not support iframes. Please <a href="https://eddyabban2.github.io/files/EddyAbbanCV.pdf">click here to download the PDF</a>.</p>
 </iframe>
