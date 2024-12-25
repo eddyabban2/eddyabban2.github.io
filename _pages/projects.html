@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Projects"
+permalink: /Projects/
+author_profile: true
+---
+
+Check out what I'm working on! Please do reach out if you have any questions or feedback :)
+
+{% include base_path %}
+
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
