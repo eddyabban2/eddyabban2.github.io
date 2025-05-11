@@ -23,8 +23,12 @@ author:
   # Biographic information
   avatar           : "IMG_4993.png"
   name             : "Eddy Abban"
-  pronouns         : # example: "she/her"  
-  bio              : "BS in Computer Engineering @ Tufts University"
+  pronouns         : "He/Him"  
+  bio: |
+    PhD in Computer Science & Engineer @ University of California, Santa Cruz
+    
+    BS in Computer Engineering @ Tufts University
+
   location         : "Medford, MA"
   employer         : 
   uri              : # URL
