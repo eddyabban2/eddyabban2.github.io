@@ -30,7 +30,7 @@ redirect_from:
   </a>
 </div>
 
-<iframe src="https://eddyabban2.github.io/files/EddyAbbanCV.pdf" width="100%" height="800px" style="border: none;">
+<iframe src="https://eddyabban2.github.io/files/EddyAbbanResume.pdf" width="100%" height="800px" style="border: none;">
   <p>Your browser does not support iframes. Please <a href="https://eddyabban2.github.io/files/EddyAbbanCV.pdf">click here to download the PDF</a>.</p>
 </iframe>
 
