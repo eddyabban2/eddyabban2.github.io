@@ -6,11 +6,6 @@ type: "Research Project"
 venue: "Tufts Computer Architecture Laboratory"
 ---
 
-I am currently a research assistant on the HotGauge project which seeks to use performance, power, and thermal simulations to effectively simulate advanced hotspots on ARM microprocessors. The project is in collaboration with Google and seeks to effectively understand the way newer ARM chips in data centers respond to new Machine Learning Workloads. 
+During my undergraduate degree I was a research assistant on the [HotGauge](https://sites.tufts.edu/tcal/publications/hotgauge/) project which seeks to use performance, power, and thermal simulations to effectively simulate advanced hotspots on x86 microprocessors. I was specifically exploring the impacts of heatsinks from the [Diamond Foundry](https://www.df.com/) on performance. I also refactored project code and updated three simulators for compatibility with RedHat 8, ensuring seamless migration from RedHat 6. And wrote project documentation to streamline onboarding and increase usability.
 
-# Project Goal:
-Previous projects within the HotGauge project have built a strong foundation of tools for completing this research project. As a result a large part of this project has been migrating and building up existing tool chains to be able to run simulations on newer ARM CPUs. As a result the projects has the following subgoals:
-* Model more exotic thermal stacks such as backside power and diamond-foundry based heat sinks 
-* Migrate from RHEL 6 to RHEL 8 machines
-* Add support for using ARM's Fast Model Simulations for simulating ARM Processors
-* Create a new public release of the tool chain 
+I  presented my results at the Tufts Louis Stokes Alliance for Minority Participation Symposium.
